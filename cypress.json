@@ -1,0 +1,5 @@
+{
+  "defaultCommandTimeout": 5000,
+  "execTimeout": 80000,
+  "projectId": "ubp9de"
+}
